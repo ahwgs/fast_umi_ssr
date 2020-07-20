@@ -1,0 +1,9 @@
+{
+  "name": "fast_umi_ssr",
+  "version": "1.0.0",
+  "description": "umi ssr app",
+  "main": "index.js",
+  "repository": "git@github.com:ahwgs/fast_umi_ssr.git",
+  "author": "ahwgs <ah_wgs@126.com>",
+  "license": "MIT"
+}
